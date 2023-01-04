@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Integral CF';
+    src: url("IntegralCF-Bold.otf");
+}
+
+body {
+    background-color: #1a1a1a;
+}
+
+#bc {
+    color: rgba(255, 255, 255, 0.952);
+    font-family: Integral CF;
+    text-align: center;
+    padding-top: 10%;
+}
+
+#load {
+    color: rgba(255, 255, 255, 0.952);
+    font-family: Integral CF;
+    text-align: center;
+}
